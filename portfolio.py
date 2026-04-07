@@ -113,4 +113,4 @@ with col4:
 st.markdown("---")
 
 # Footer
-st.write("📌 Tech Stack: Python | Pandas | Scikit-learn | Streamlit")
+st.write("📌 Tech Stack: Python | Pandas | Numpy | Scikit-learn | XGBoost | LightGBM | Plotly | Altair | Streamlit")
