@@ -98,7 +98,7 @@ with col3:
 with col4:
     st.markdown("""
     <div class="card">
-        <div class="title">🏏 IPL Data Analysis</div>
+        <div class="title">🏏 IPL Data Analysis and Batsman Performance predictor</div>
         <div class="desc">
         Interactive dashboard for IPL player stats.<br>
         Visual insights and performance tracking.
