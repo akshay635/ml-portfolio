@@ -1,0 +1,11 @@
+streamlit
+python
+pandas
+numpy
+plotly
+altair
+scikit-learn
+xgboost
+lightgbm
+joblib
+json
