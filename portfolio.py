@@ -62,7 +62,7 @@ with col1:
 with col2:
     st.markdown("""
     <div class="card">
-        <div class="title">🩺 Employee Attrition</div>
+        <div class="title">🏢🚶🚪📉 Employee Attrition</div>
         <div class="desc">
         Predicts Attrition rate using employee data.<br>
         Includes feature engineering and risk scoring.<br>
