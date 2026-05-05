@@ -9,10 +9,11 @@ st.set_page_config(page_title="ML Portfolio", layout="wide")
 st.markdown("""
 <style>
 .card {
-    background-color: #262730;
+    background-color: #FFFFFF;
+    color: #1E293B;
     padding: 20px;
     border-radius: 12px;
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.05);
     margin-bottom: 20px;
 }
 .card:hover {
@@ -20,18 +21,18 @@ st.markdown("""
     transition: 0.3s;
 }
 .title {
-    font-size: 22px;
-    font-weight: bold;
+    font-size: 18px;
+    font-weight: 600;
 }
 .desc {
     font-size: 14px;
-    color: #CCCCCC;
+    color: #64748B;
 }
 </style>
 """, unsafe_allow_html=True)
 
 # Header
-st.title("🚀 My Machine Learning Portfolio")
+st.title("🚀 Machine Learning Portfolio")
 st.write("Building end-to-end ML systems for real-world problem solving")
 
 st.info("💡 Click on any project link to explore the live application")
