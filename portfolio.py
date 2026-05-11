@@ -32,7 +32,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.title("🚀 Machine Learning Portfolio")
+st.title("Akshay Atanure", text_alignment='center')
+st.header('Data Scientist | Machine Learning | Python | Risk Modeling | Attrition Detection | MLOps', text_alignment='center')
 st.write("Building end-to-end ML systems for real-world problem solving")
 
 st.info("💡 Click on any project link to explore the live application")
